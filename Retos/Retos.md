@@ -1,7 +1,16 @@
 # Tabla de contenido
 |Contenido|
 |---------|
-
+|[Reto1](#reto-1)|
+|[Reto 2](#reto-2)|
+|[Reto 3](#reto-3)|
+|[Reto 4](#reto-4)|
+|[Reto 5](#reto-5)|
+|[Reto 6](#reto-6)|
+|[Reto 7](#reto-7)|
+|[Reto 8](#reto-8)|
+|[Reto 9](#reto-9)|
+|[Reto 10](#reto-10)|
 
 ## Reto 1
 - Diagrama de flujo
