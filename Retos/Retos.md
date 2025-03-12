@@ -65,7 +65,6 @@
             Leer d_N, m_N, a_N
             Leer d_H, m_H, a_H
             Hacer E = a_N - a_H
-            Leer E
 
                 Si m_N < m_H
                     Escribir "Ya cumplio y la edad es" E
