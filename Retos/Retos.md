@@ -189,9 +189,9 @@
             Escribir "Ingrese la cantidad (N) de términos que desea imprimir"
             Leer N
             
-            e^x = 1
+            e_exp = 1
             término =1
-            i=1
+            fact_i=1
 
             Mientras i < N Hacer
                 término = término * x/ i
@@ -210,14 +210,14 @@
             Escribir "Ingrese el número de términos (N) que desea imprimir"
             Leer N
 
-            Sen(x) = x
+            Sen_x = x
             término =x
-            i = 1
+            fact_i = 3
 
             Mientras i < N Hacer
-                término = término * (-1) * x * x/ [(2 * i) * (2 * i + 1)]
+                término = término * (-1) * x * x/ i
                 Sen(x) = Sen(x) + término
-                i = i + 1
+                i = i + 2
             Fin Mientras
 
             Escribir "El valor aproximado de Sen(x) es:", Sen(x)
